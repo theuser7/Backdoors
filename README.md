@@ -1,2 +1,0 @@
-# Backdoors
-# windows and linux
